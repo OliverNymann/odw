@@ -1,7 +1,5 @@
 FROM python:latest
 
-EXPOSE 3000
-
 WORKDIR /app
 
 COPY requirements.txt /app

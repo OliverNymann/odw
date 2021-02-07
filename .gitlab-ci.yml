@@ -1,0 +1,2 @@
+include:
+  remote: 'https://scalableteaching.sdu.dk/test-static/odw-2020-ci.yml'
